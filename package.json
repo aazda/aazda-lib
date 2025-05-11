@@ -1,15 +1,21 @@
 {
   "name": "aazda-lib",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Simple utility library built with TypeScript and pkgx",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "pkgx tsc",
     "prepare": "pkgx tsc"
   },
-  "keywords": ["typescript", "library", "pkgx"],
+  "keywords": [
+    "typescript",
+    "library",
+    "pkgx"
+  ],
   "author": "",
   "license": "ISC",
   "type": "module",
