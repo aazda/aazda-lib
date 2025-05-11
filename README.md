@@ -4,7 +4,7 @@
 
 ## 📦 Instalasi
 
-Gunakan `npm` atau `pkgx` untuk menginstal:
+Use `npm` or `pkgx` to install:
 
 ```bash
 npm install aazda-lib
